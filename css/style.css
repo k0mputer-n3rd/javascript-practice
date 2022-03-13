@@ -1,12 +1,19 @@
 /* BitWise JavaScript */
 /* Homework */
 /* K0mputer N3rd */
-/* 02/26/2022 */
+/* 03/13/2022 */
 
 /***********\
 * style.css *
 \***********/
 
-h1 {
+body {
+  color: darkblue;
+  background-color: deeppink;
   text-align: center;
+}
+
+button {
+  color: crimson;
+  background-color: lightblue;
 }
